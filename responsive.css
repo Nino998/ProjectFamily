@@ -1,0 +1,15 @@
+@media screen and(max-width:992){
+    .right_nav  ul{
+        width: 100%;
+        background-color: #ccb8b45b;
+        position: absolute;
+        top: 75px;
+        right: 0;
+        z-index: 2;
+    }
+    .right_nav ul li{
+        display: block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
